@@ -351,7 +351,7 @@ In python when statement is required (after semicolon), but we don't like to exe
 for number in range(6):
     pass
 ```
-``
+```
 n=int(input("entrer un nombre : "))
 for i in range(n):
   fiche ={
